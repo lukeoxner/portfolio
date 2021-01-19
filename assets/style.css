@@ -1,0 +1,13 @@
+body {
+  background-image: url(./images/double-bubble-outline.png);
+  background-size: auto;
+}
+
+.content {
+  background-color: white;
+}
+
+#headshot {
+  width: 200px;
+  height: 200px;
+}
