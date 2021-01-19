@@ -2,6 +2,10 @@ body {
   background-image: url(./images/interlaced.png);
   background-size: auto;
 }
+.navbar-name {
+  font-family: "Staatliches", cursive;
+  font-size: 200%;
+}
 
 .content {
   background-color: white;
