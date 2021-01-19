@@ -11,3 +11,7 @@ body {
   width: 200px;
   height: 200px;
 }
+
+.footer-text {
+  font-size: 12px;
+}
