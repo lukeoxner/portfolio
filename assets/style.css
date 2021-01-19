@@ -5,6 +5,7 @@ body {
 .navbar-name {
   font-family: "Staatliches", cursive;
   font-size: 200%;
+  line-height: 1;
 }
 
 .content {
@@ -14,6 +15,10 @@ body {
 #headshot {
   width: 200px;
   height: 200px;
+}
+
+#hey {
+  font-size: calc(1.2rem + 0.4vw);
 }
 
 .footer-text {
