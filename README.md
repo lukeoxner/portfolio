@@ -1,6 +1,6 @@
 # portfolio
 
-![screenshot of website](screenshot.png)
+![screenshot of website](./assets/images/screenshot.png)
 
 
 
