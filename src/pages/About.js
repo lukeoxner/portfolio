@@ -39,6 +39,7 @@ function About() {
 										<h4 className="contact-text">
 											<img
 												src="./assets/images/resume-icon.png"
+												alt="resume"
 												className="contact-icon"
 											/>{' '}
 											<a

@@ -15,6 +15,7 @@ function Projects() {
 										<div className="col-12 col-lg-6 mb-3">
 											<img
 												src="assets/images/brawndo-ss.png"
+												alt="brawndo"
 												className="portfolio-ss"
 											/>
 										</div>
@@ -35,6 +36,7 @@ function Projects() {
 										<div className="col-12 col-lg-6 mb-3">
 											<img
 												src="assets/images/employee-ss.png"
+												alt="directory"
 												className="portfolio-ss"
 											/>
 										</div>
@@ -56,6 +58,7 @@ function Projects() {
 											<img
 												src="assets/images/budget-ss.png"
 												className="portfolio-ss"
+												alt="budget"
 											/>
 										</div>
 										<div className="col-12 col-lg-6 mb-3">
@@ -75,6 +78,7 @@ function Projects() {
 										<div className="col-12 col-lg-6 mb-3">
 											<img
 												src="assets/images/weather-ss.png"
+												alt="weather"
 												className="portfolio-ss"
 											/>
 										</div>
@@ -95,6 +99,7 @@ function Projects() {
 										<div className="col-12 col-lg-6 mb-3">
 											<img
 												src="assets/images/workday-ss.png"
+												alt="scheduler"
 												className="portfolio-ss"
 											/>
 										</div>
@@ -115,6 +120,7 @@ function Projects() {
 										<div className="col-12 col-lg-6 mb-3">
 											<img
 												src="assets/images/project1-ss.png"
+												alt="project1"
 												className="portfolio-ss"
 											/>
 										</div>
