@@ -13,7 +13,7 @@ function Contact() {
 								<div className="col-10 col-md-8 m-4">
 									<h4 className="contact-text">
 										<img
-											src="../src/assets/images/email-icon.png"
+											src="./assets/images/email-icon.png"
 											className="contact-icon"
 										/>
 										<a href="mailto:lukeoxnercoding@gmail.com" target="blank">
@@ -22,7 +22,7 @@ function Contact() {
 									</h4>
 									<h4 className="contact-text">
 										<img
-											src="../src/assets/images/linkedin-icon.png"
+											src="./assets/images/linkedin-icon.png"
 											className="contact-icon"
 										/>{' '}
 										<a
@@ -34,7 +34,7 @@ function Contact() {
 									</h4>
 									<h4 className="contact-text">
 										<img
-											src="../src/assets/images/github-icon.png"
+											src="./assets/images/github-icon.png"
 											className="contact-icon"
 										/>{' '}
 										<a href="https://github.com/lukeoxner" target="blank">
@@ -43,7 +43,7 @@ function Contact() {
 									</h4>
 									<h4 className="contact-text">
 										<img
-											src="../src/assets/images/resume-icon.png"
+											src="./assets/images/resume-icon.png"
 											className="contact-icon"
 										/>{' '}
 										<a
