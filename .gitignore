@@ -1,1 +1,7 @@
 node_modules
+<<<<<<< HEAD
+=======
+.DS_Store/
+node_modules/
+package-lock.json
+>>>>>>> parent of 9a61ce7... Updates
