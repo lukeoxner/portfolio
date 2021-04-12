@@ -29,10 +29,13 @@ function About() {
 										pretty much anything else outdoors!
 									</p>
 									<p className="px-4">
-										What you've found here is my coding portfolio website. As I
-										progress through the boot camp, I look forward to adding
-										more content and functionality to this site. Check back soon
-										to see what's new!
+										I built this portfolio site to showcase some of the awesome
+										group projects and individual homework projects I completed
+										during the bootcamp, as well as the personal and client
+										projects I've been working on since graduating from the
+										program! I'm also planning to film some video walkthroughs
+										of the finished projects and their codebases - check back
+										soon for that!
 									</p>
 									<br />
 									<div className="px-4">
