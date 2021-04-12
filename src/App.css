@@ -3,7 +3,7 @@ a {
 }
 
 .navbar-brand {
-	font-family: 'Staatliches', cursive;
+	font-family: "Staatliches", cursive;
 	font-size: 200%;
 	line-height: 1;
 }
@@ -27,10 +27,9 @@ a {
 }
 
 #headshot {
-	width: 200px;
-	height: 200px;
+	max-width: 100%;
 }
 
 #hey {
-	font-size: calc(1.2rem + 0.4vw);
+	font-size: calc(1.7rem + 0.5vw);
 }
