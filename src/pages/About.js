@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 function About() {
 	return (
@@ -41,9 +41,9 @@ function About() {
 												src="./assets/images/resume-icon.png"
 												alt="resume"
 												className="contact-icon"
-											/>{' '}
+											/>{" "}
 											<a
-												href="https://drive.google.com/file/d/1X9fs7HrRNgZxRTPx4Omb8p5o9Fx2WEEt/view?usp=sharing"
+												href="https://drive.google.com/file/d/1VtjL1kyyFdLPYdwvbJzRchn7wR6BXGPk/view?usp=sharing"
 												target="blank"
 											>
 												View My Resume

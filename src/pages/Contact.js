@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 function Contact() {
 	return (
@@ -26,7 +26,7 @@ function Contact() {
 											src="./assets/images/linkedin-icon.png"
 											className="contact-icon"
 											alt="linkedin"
-										/>{' '}
+										/>{" "}
 										<a
 											href="https://www.linkedin.com/in/lukeoxner"
 											target="blank"
@@ -39,7 +39,7 @@ function Contact() {
 											src="./assets/images/github-icon.png"
 											className="contact-icon"
 											alt="github"
-										/>{' '}
+										/>{" "}
 										<a href="https://github.com/lukeoxner" target="blank">
 											GitHub.com/LukeOxner
 										</a>
@@ -49,9 +49,9 @@ function Contact() {
 											src="./assets/images/resume-icon.png"
 											className="contact-icon"
 											alt="resume"
-										/>{' '}
+										/>{" "}
 										<a
-											href="https://drive.google.com/file/d/1X9fs7HrRNgZxRTPx4Omb8p5o9Fx2WEEt/view?usp=sharing"
+											href="https://drive.google.com/file/d/1VtjL1kyyFdLPYdwvbJzRchn7wR6BXGPk/view?usp=sharing"
 											target="blank"
 										>
 											Luke Oxner Resume
