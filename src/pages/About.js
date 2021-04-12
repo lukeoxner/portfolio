@@ -11,7 +11,7 @@ function About() {
 							<hr />
 							<div className="row">
 								<div className="col-12">
-									<div className="row d-flex justify-content-center">
+									<div className="row d-flex align-items-center justify-content-center">
 										<div className="col-10 col-md-4">
 											<img
 												className="float-start me-3 p-3"
@@ -21,7 +21,10 @@ function About() {
 											/>
 										</div>
 										<div className="col-12 col-md-8">
-											<h3 className="pt-4 px-3 my-auto text-center" id="hey">
+											<h3
+												className="pt-4 px-3 align-middle text-center"
+												id="hey"
+											>
 												Hey there, I'm Luke!
 											</h3>
 										</div>
