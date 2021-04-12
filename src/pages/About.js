@@ -21,12 +21,19 @@ function About() {
 										Hey there, I'm Luke!
 									</h3>
 									<p className="p-4">
-										I'm a student in the University of Denver Full-Stack Web
-										Development Boot Camp. I'm originally from Arkansas, but
-										have lived in Colorado for almost five years now. When I'm
-										not learning code (which is pretty much all I have time for
-										right now), I love motorsport, hiking, running, skiing, and
-										pretty much anything else outdoors!
+										I'm a full-stack developer based in the beautiful state of
+										Colorado, and a recent graduate of the University of
+										Denver's Full Stack Coding Bootcamp. I thrive when solving
+										complex problems and learning new things, and I am
+										passionate about functionality and making things work. I am
+										a strong communicator, fast learner, and an excellent team
+										player. Prior to entering the development space, I spent
+										four years as a professional racing driver, race team
+										manager, and marketing manager. I am excited to join a
+										software development team in which I can apply both my
+										technical coding skills, as well as the valuable teamwork
+										and leadership experience I gained during my previous career
+										in motorsport.
 									</p>
 									<p className="px-4">
 										I built this portfolio site to showcase some of the awesome
