@@ -25,7 +25,7 @@ function Header() {
 								<span className="navbar-toggler-icon"></span>
 							</button>
 							<div className="collapse navbar-collapse" id="navbarNavAltMarkup">
-								<div className="navbar-nav w-100 justify-content-end">
+								<div className="navbar-nav w-100 px-3 justify-content-end">
 									<Link
 										to="/about"
 										className={
@@ -34,7 +34,7 @@ function Header() {
 												: "nav-link"
 										}
 									>
-										About
+										About Me
 									</Link>
 									<Link
 										to="/projects"
@@ -44,7 +44,7 @@ function Header() {
 												: "nav-link"
 										}
 									>
-										Portfolio
+										My Portfolio
 									</Link>
 								</div>
 							</div>
