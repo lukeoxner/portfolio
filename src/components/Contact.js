@@ -5,22 +5,29 @@ function Contact() {
 		<>
 			<div className="container">
 				<div className="row">
-					<div className="col-12 col-md-10">
+					<div className="col-12">
 						<div className="container mt-5 p-2 content">
 							<h1>Contact</h1>
 							<hr />
-							<div className="row">
-								<div className="col-10 col-md-8 m-4">
+							<br />
+							<div className="row d-flex justify-content-start justify-content-md-center">
+								<div
+									div
+									className="d-flex justify-content-start justify-content-md-center col-10 col-md-4"
+								>
 									<h4 className="contact-text">
 										<img
 											src="./assets/images/email-icon.png"
 											className="contact-icon"
 											alt="email"
 										/>
-										<a href="mailto:lukeoxnercoding@gmail.com" target="blank">
-											LukeOxnerCoding@gmail.com
+										<a href="mailto:lukeoxner77@gmail.com" target="blank">
+											{" "}
+											Email
 										</a>
 									</h4>
+								</div>
+								<div className="d-flex justify-content-start justify-content-md-center col-12 col-md-4">
 									<h4 className="contact-text">
 										<img
 											src="./assets/images/linkedin-icon.png"
@@ -31,9 +38,11 @@ function Contact() {
 											href="https://www.linkedin.com/in/lukeoxner"
 											target="blank"
 										>
-											LinkedIn.com/in/LukeOxner
+											LinkedIn
 										</a>
 									</h4>
+								</div>
+								<div className="d-flex justify-content-start justify-content-md-center col-10 col-md-4">
 									<h4 className="contact-text">
 										<img
 											src="./assets/images/github-icon.png"
@@ -41,20 +50,7 @@ function Contact() {
 											alt="github"
 										/>{" "}
 										<a href="https://github.com/lukeoxner" target="blank">
-											GitHub.com/LukeOxner
-										</a>
-									</h4>
-									<h4 className="contact-text">
-										<img
-											src="./assets/images/resume-icon.png"
-											className="contact-icon"
-											alt="resume"
-										/>{" "}
-										<a
-											href="https://drive.google.com/file/d/1VtjL1kyyFdLPYdwvbJzRchn7wR6BXGPk/view?usp=sharing"
-											target="blank"
-										>
-											Luke Oxner Resume
+											GitHub
 										</a>
 									</h4>
 								</div>

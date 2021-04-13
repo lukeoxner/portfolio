@@ -2,7 +2,7 @@ import React from "react";
 import { HashRouter as Router, Route, Switch } from "react-router-dom";
 import About from "./pages/About";
 import Projects from "./pages/Projects";
-import Contact from "./pages/Contact";
+import Contact from "./components/Contact";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 import "./App.css";

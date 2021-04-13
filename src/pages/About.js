@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import Contact from "../components/Contact";
 
 function About() {
 	return (
@@ -54,8 +55,8 @@ function About() {
 									</p>
 									<br />
 									<div className="px-4">
-										<div className="row justify-content-center">
-											<div className="col-10 col-md-4 justify-content-center text-center">
+										<div className="row justify-content-start justify-content-md-center">
+											<div className="col-10 col-md-4 justify-content-start justify-content-md-center text-md-center">
 												<h4 className="contact-text">
 													<img
 														src="./assets/images/portfolio-icon.png"
@@ -65,7 +66,7 @@ function About() {
 													<Link to="/projects">Project Portfolio</Link>
 												</h4>
 											</div>
-											<div className="col-10 col-md-4 justify-content-center text-center">
+											<div className="col-10 col-md-4 justify-content-start justify-content-md-center text-md-center">
 												<h4 className="contact-text">
 													<img
 														src="./assets/images/resume-icon.png"
@@ -82,6 +83,7 @@ function About() {
 											</div>
 										</div>
 									</div>
+									<Contact />
 									<br />
 									<br />
 								</div>
