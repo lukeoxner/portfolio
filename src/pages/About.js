@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 function About() {
 	return (
@@ -53,19 +54,33 @@ function About() {
 									</p>
 									<br />
 									<div className="px-4">
-										<h4 className="contact-text">
-											<img
-												src="./assets/images/resume-icon.png"
-												alt="resume"
-												className="contact-icon"
-											/>{" "}
-											<a
-												href="https://drive.google.com/file/d/1VtjL1kyyFdLPYdwvbJzRchn7wR6BXGPk/view?usp=sharing"
-												target="blank"
-											>
-												View My Resume
-											</a>
-										</h4>
+										<div className="row justify-content-center">
+											<div className="col-10 col-md-4 justify-content-center text-center">
+												<h4 className="contact-text">
+													<img
+														src="./assets/images/portfolio-icon.png"
+														alt="portfolio"
+														className="contact-icon"
+													/>{" "}
+													<Link to="/projects">Project Portfolio</Link>
+												</h4>
+											</div>
+											<div className="col-10 col-md-4 justify-content-center text-center">
+												<h4 className="contact-text">
+													<img
+														src="./assets/images/resume-icon.png"
+														alt="resume"
+														className="resume-icon"
+													/>{" "}
+													<a
+														href="https://drive.google.com/file/d/1VtjL1kyyFdLPYdwvbJzRchn7wR6BXGPk/view?usp=sharing"
+														target="blank"
+													>
+														My Resume
+													</a>
+												</h4>
+											</div>
+										</div>
 									</div>
 									<br />
 									<br />
