@@ -31,16 +31,16 @@ function About() {
 									</div>
 									<p className="p-4">
 										I'm a full-stack developer based in the beautiful state of
-										Colorado, and a recent graduate of the University of
-										Denver's Full Stack Coding Bootcamp. I thrive when solving
-										complex problems and learning new things, and I am
-										passionate about functionality and making things work. Prior
-										to entering the development space, I spent four years as a
-										professional racing driver, race team manager, and marketing
-										manager. I am excited to join a software development team in
-										which I can apply both my technical coding skills, as well
-										as the valuable teamwork and leadership experience I gained
-										during my previous career in motorsport.
+										Colorado, and a recent graduate of the University of Denver
+										Full Stack Coding Bootcamp. I thrive when solving complex
+										problems and learning new things, and I am passionate about
+										functionality and making things work. Prior to entering the
+										development space, I spent four years as a professional
+										racing driver, race team manager, and marketing manager. I
+										am excited to join a software development team in which I
+										can apply both my technical coding skills, as well as the
+										valuable teamwork and leadership experience I gained during
+										my previous career in motorsport.
 									</p>
 									<p className="px-4">
 										I built this portfolio site to showcase some of the awesome
