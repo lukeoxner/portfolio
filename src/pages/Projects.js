@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 function Projects() {
 	return (
@@ -11,6 +11,27 @@ function Projects() {
 							<hr />
 							<div className="row">
 								<div className="col-12 px-1">
+									<div className="row p-2">
+										<div className="col-12 col-lg-6 mb-3">
+											<img
+												src="assets/images/wavmovers-ss.png"
+												alt="wavmovers"
+												className="portfolio-ss"
+											/>
+										</div>
+										<div className="col-12 col-lg-6 mb-3">
+											<br />
+											<h4>WavMovers (Capstone Project)</h4>
+											<a href="https://wavmovers.herokuapp.com/">
+												wavmovers.herokuapp.com
+											</a>
+											<br />
+											<a href="https://github.com/Jdouville8/Audio-Sample-Sharing-Service">
+												github.com/Jdouville8/WavMovers
+											</a>
+										</div>
+										<hr />
+									</div>
 									<div className="row p-2">
 										<div className="col-12 col-lg-6 mb-3">
 											<img
@@ -66,7 +87,7 @@ function Projects() {
 											<h4>Budget Tracker</h4>
 											<a href="https://stormy-garden-25212.herokuapp.com/">
 												budget-tracker.herokuapp.com
-											</a>{' '}
+											</a>{" "}
 											<br />
 											<a href="https://github.com/lukeoxner/budget-tracker">
 												github.com/lukeoxner/budget-tracker
@@ -108,33 +129,13 @@ function Projects() {
 											<h4>Workday Scheduler</h4>
 											<a href="https://lukeoxner.github.io/workday-scheduler/">
 												lukeoxner.github.io/workday-scheduler
-											</a>{' '}
+											</a>{" "}
 											<br />
 											<a href="https://github.com/lukeoxner/workday-scheduler">
 												github.com/lukeoxner/workday-scheduler
 											</a>
 										</div>
 										<hr />
-									</div>
-									<div className="row mt-3 p-2">
-										<div className="col-12 col-lg-6 mb-3">
-											<img
-												src="assets/images/project1-ss.png"
-												alt="project1"
-												className="portfolio-ss"
-											/>
-										</div>
-										<div className="col-12 col-lg-6 mb-3">
-											<br />
-											<h4>Turn That Frown Upside Down</h4>
-											<a href="https://lukeoxner.github.io/project-1/">
-												lukeoxner.github.io/project-1
-											</a>{' '}
-											<br />
-											<a href="https://github.com/lukeoxner/project-1">
-												github.com/lukeoxner/project-1
-											</a>
-										</div>
 									</div>
 								</div>
 							</div>
