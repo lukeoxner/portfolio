@@ -1,5 +1,5 @@
-import React from 'react';
-import { Link, useLocation } from 'react-router-dom';
+import React from "react";
+import { Link, useLocation } from "react-router-dom";
 
 function Header() {
 	const location = useLocation();
@@ -29,9 +29,9 @@ function Header() {
 									<Link
 										to="/about"
 										className={
-											location.pathname === '/about'
-												? 'nav-link active'
-												: 'nav-link'
+											location.pathname === "/about"
+												? "nav-link active"
+												: "nav-link"
 										}
 									>
 										About
@@ -39,22 +39,12 @@ function Header() {
 									<Link
 										to="/projects"
 										className={
-											location.pathname === '/projects'
-												? 'nav-link active'
-												: 'nav-link'
+											location.pathname === "/projects"
+												? "nav-link active"
+												: "nav-link"
 										}
 									>
 										Portfolio
-									</Link>
-									<Link
-										to="/contact"
-										className={
-											location.pathname === '/contact'
-												? 'nav-link active'
-												: 'nav-link'
-										}
-									>
-										Contact
 									</Link>
 								</div>
 							</div>
