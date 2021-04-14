@@ -77,7 +77,7 @@ function About() {
 														className="resume-icon"
 													/>{" "}
 													<a
-														href="https://drive.google.com/file/d/1VtjL1kyyFdLPYdwvbJzRchn7wR6BXGPk/view?usp=sharing"
+														href="https://drive.google.com/file/d/1BPRGoBfl0n9ZJPIEeaKOjN02E_YucxL0/view?usp=sharing"
 														target="blank"
 													>
 														My Resume
